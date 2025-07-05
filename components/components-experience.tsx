@@ -3,25 +3,24 @@
 const experiences = [
   {
     company: 'Xaltam Technologies',
-    position: 'Frontend Developer',
-    duration: 'Feb 2024 - Present',
+    position: 'Mern Stack Developer',
+    duration: 'April 2024 - Present',
     responsibilities: [
-      'Created and maintained content management system (CMS) websites, enhancing user experience and ensuring efficient content updates',
-      'Designed and implemented user-friendly admin panels, facilitating smooth data management and administrative tasks',
-      'Collaborated with cross-functional teams to deliver projects on time and meet client specifications',
-      'Actively participated in code reviews and contributed to improving coding standards and best practices within the team',
-      'Worked on UAE-based e-commerce web applications such as Camouflage and Dhudu',
+      'Built and maintained CMS websites and intuitive admin dashboards using React.js and Material UI to deliver smooth data management and great user experience.',
+      'Delivered a Kuwait-based e-commerce platform, Camouflagekw.com, using Next.js, TailwindCSS, and MyFatoorah Payment System, and worked with cross-functional teams to meet client needs.',
+      'Improved team code quality by leading code reviews and sharing best practices',
+      'Currently developing Grafikhub.com, a secure and scalable marketplace for selling PSD and graphic design templates, built with Next.js, Auth.js, Node.js, MongoDB, Cloudflare R2, and Razorpay.',
+      ' Deployed applications on Cloudflare, AWS and Vercel, managing CDN configuration, custom domains, and performance optimization for global users.',
     ],
   },
   {
-    company: 'Coding Shuttle',
+    company: 'DMHCA',
     position: 'Mern Stack Developer (Intern)',
-    duration: 'Oct 2023 - Jan 2024',
+    duration: 'Jan 2023 - April 2024',
     responsibilities: [
-      'Developed interactive and dynamic web applications using ReactJS and Tailwind CSS',
-      'Enhanced skills in code optimization and performance tuning',
-      'Collaborated on backend development using Node.js to create robust and scalable APIs',
-      'Improved overall application performance',
+      'Built interactive and dynamic web apps using Next.js, ShadCN, and TailwindCSS.',
+      'Improved code quality through optimization and performance tuning.',
+      'Developed robust and scalable backend APIs with Node.js and Express.',
     ],
   },
 ];
