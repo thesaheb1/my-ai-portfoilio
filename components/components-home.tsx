@@ -11,9 +11,9 @@ export default function ComponentsHome() {
           <p className="text-xl mb-6">
             I&apos;m a passionate MERN stack developer creating innovative web solutions.
           </p>
-          <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full text-lg">
+          <a href="#projects" className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-full text-lg">
             View My Work
-          </button>
+          </a>
         </div>
         <div className="md:w-1/2">
           <Image
