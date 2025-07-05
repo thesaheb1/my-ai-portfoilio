@@ -17,7 +17,7 @@ const projects = [
     title: 'Netflix GPT',
     description: 'An AI-powered movie recommendation and streaming app, similar to Netflix, with GPT-driven suggestions.',
     technologies: ['ReactJS', 'Firebase', 'GPT API'],
-    link: 'https://netflix-da3d8.web.app/',
+    link: 'https://saheb-netflix.vercel.app/',
   },
 ];
 
