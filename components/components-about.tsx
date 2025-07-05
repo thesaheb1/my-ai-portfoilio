@@ -19,7 +19,7 @@ export default function ComponentsAbout() {
           </div>
           <div className="md:w-2/3 md:pl-8">
             <p className="text-lg mb-4">
-              Hello! I&apos;m a passionate MERN stack developer with over 1 years of experience in creating
+              Hello! I&apos;m a passionate MERN stack developer with almost 2 years of experience in creating
               robust and scalable web applications. My journey in the world of programming started
               with a curiosity to understand how things work on the internet, and it has evolved into
               a fulfilling career where I get to build innovative solutions every day.
